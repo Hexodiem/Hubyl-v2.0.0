@@ -1,0 +1,12 @@
+{
+  "name": "hubyl",
+  "version": "1.0.0",
+  "description": "bot hub gaming",
+  "main": "main.js",
+  "repository": "https://github.com/Hexodiem/Hubyl-v1.0.0.git",
+  "author": "Nasolor",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
